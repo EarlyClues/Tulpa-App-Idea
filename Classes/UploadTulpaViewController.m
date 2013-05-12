@@ -25,12 +25,12 @@
                                       [UIImage imageNamed:@"b5.png"],
                                       [UIImage imageNamed:@"b6.png"],
                                       [UIImage imageNamed:@"b7.png"],
-                                      [UIImage imageNamed:@"b8.png"], 
-									  [UIImage imageNamed:@"b9.png"], 
-									  [UIImage imageNamed:@"b10.png"], 
-									  [UIImage imageNamed:@"b11.png"], 
-									  [UIImage imageNamed:@"b12.png"],
-									  nil];
+																			[UIImage imageNamed:@"b8.png"],
+																			[UIImage imageNamed:@"b9.png"],
+																			[UIImage imageNamed:@"b10.png"],
+																			[UIImage imageNamed:@"b11.png"],
+																			[UIImage imageNamed:@"b12.png"],
+																			nil];
         
         // all frames will execute in 1.75 seconds
         background.animationDuration = .5;
@@ -58,7 +58,7 @@
         [background setImage:[UIImage imageNamed:@"b1.png"]];
         
         background.animationImages = [NSArray arrayWithObjects:   
-									  [UIImage imageNamed:@"b12.png"],
+																			[UIImage imageNamed:@"b12.png"],
                                       [UIImage imageNamed:@"b11.png"],
                                       [UIImage imageNamed:@"b10.png"],
                                       [UIImage imageNamed:@"b9.png"],
@@ -66,11 +66,11 @@
                                       [UIImage imageNamed:@"b7.png"],
                                       [UIImage imageNamed:@"b6.png"],
                                       [UIImage imageNamed:@"b5.png"], 
-									  [UIImage imageNamed:@"b4.png"], 
-									  [UIImage imageNamed:@"b3.png"], 
-									  [UIImage imageNamed:@"b2.png"], 
-									  [UIImage imageNamed:@"b1.png"], 
-									  nil];
+																			[UIImage imageNamed:@"b4.png"],
+																			[UIImage imageNamed:@"b3.png"],
+																			[UIImage imageNamed:@"b2.png"],
+																			[UIImage imageNamed:@"b1.png"],
+																			nil];
         
         // all frames will execute in 1.75 seconds
         background.animationDuration = 1;

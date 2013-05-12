@@ -2,8 +2,8 @@
 //  TulpasAppDelegate.h
 //  Tulpas
 //
-//  Created by Garrett Kelly on 7/5/10.
-//  Copyright __MyCompanyName__ 2010. All rights reserved.
+//  Created by RICHARD STALLMANS RIDER on 5/10/2013.
+//  EARLY CLUES LLC 2013. All rights waived.
 //
 
 #import <UIKit/UIKit.h>

@@ -1,9 +1,5 @@
-//
-//  iPhoneStreamingPlayerViewController.h
-//  iPhoneStreamingPlayer
-//
-//  Created by Matt Gallagher on 28/10/08.
-//  Copyright Matt Gallagher 2008. All rights reserved.
+//  Created by RICHARD STALLMANS RIDER on 5/10/2013.
+//  EARLY CLUES LLC 2013. All rights waived.
 //
 
 #import <UIKit/UIKit.h>
@@ -14,8 +10,8 @@
 {
 	BOOL uploaded;
 	IBOutlet UIImageView *background;
-    NSTimer *timer;
-    int numofVibs;
+  NSTimer *timer;
+  int numofVibs;
 }
 
 @property (nonatomic, retain)IBOutlet UIImageView *background;
