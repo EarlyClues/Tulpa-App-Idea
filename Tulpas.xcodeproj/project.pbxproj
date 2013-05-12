@@ -1,0 +1,303 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* TulpasAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* TulpasAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		DE4DB64C11E2F2D000758F2D /* UploadTulpaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DE4DB64B11E2F2D000758F2D /* UploadTulpaViewController.m */; };
+		DE4DB71511E2FB2900758F2D /* b1.png in Resources */ = {isa = PBXBuildFile; fileRef = DE4DB70A11E2FB2900758F2D /* b1.png */; };
+		DE4DB71611E2FB2900758F2D /* b2.png in Resources */ = {isa = PBXBuildFile; fileRef = DE4DB70B11E2FB2900758F2D /* b2.png */; };
+		DE4DB71711E2FB2900758F2D /* b3.png in Resources */ = {isa = PBXBuildFile; fileRef = DE4DB70C11E2FB2900758F2D /* b3.png */; };
+		DE4DB71811E2FB2900758F2D /* b4.png in Resources */ = {isa = PBXBuildFile; fileRef = DE4DB70D11E2FB2900758F2D /* b4.png */; };
+		DE4DB71911E2FB2900758F2D /* b5.png in Resources */ = {isa = PBXBuildFile; fileRef = DE4DB70E11E2FB2900758F2D /* b5.png */; };
+		DE4DB71A11E2FB2900758F2D /* b6.png in Resources */ = {isa = PBXBuildFile; fileRef = DE4DB70F11E2FB2900758F2D /* b6.png */; };
+		DE4DB71B11E2FB2900758F2D /* b7.png in Resources */ = {isa = PBXBuildFile; fileRef = DE4DB71011E2FB2900758F2D /* b7.png */; };
+		DE4DB71C11E2FB2900758F2D /* b8.png in Resources */ = {isa = PBXBuildFile; fileRef = DE4DB71111E2FB2900758F2D /* b8.png */; };
+		DE4DB71D11E2FB2900758F2D /* b9.png in Resources */ = {isa = PBXBuildFile; fileRef = DE4DB71211E2FB2900758F2D /* b9.png */; };
+		DE4DB71E11E2FB2900758F2D /* b10.png in Resources */ = {isa = PBXBuildFile; fileRef = DE4DB71311E2FB2900758F2D /* b10.png */; };
+		DE4DB71F11E2FB2900758F2D /* b11.png in Resources */ = {isa = PBXBuildFile; fileRef = DE4DB71411E2FB2900758F2D /* b11.png */; };
+		DE4DB74811E3021800758F2D /* UploadView.xib in Resources */ = {isa = PBXBuildFile; fileRef = DE4DB74711E3021800758F2D /* UploadView.xib */; };
+		DE4DB76211E3050400758F2D /* b12.png in Resources */ = {isa = PBXBuildFile; fileRef = DE4DB76111E3050400758F2D /* b12.png */; };
+		DE4DB76A11E305B800758F2D /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DE4DB76911E305B800758F2D /* AudioToolbox.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* TulpasAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TulpasAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* TulpasAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TulpasAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* Tulpas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tulpas.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* Tulpas_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Tulpas_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* Tulpas-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Tulpas-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		DE4DB64A11E2F2D000758F2D /* UploadTulpaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UploadTulpaViewController.h; sourceTree = "<group>"; };
+		DE4DB64B11E2F2D000758F2D /* UploadTulpaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UploadTulpaViewController.m; sourceTree = "<group>"; };
+		DE4DB70A11E2FB2900758F2D /* b1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = b1.png; sourceTree = "<group>"; };
+		DE4DB70B11E2FB2900758F2D /* b2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = b2.png; sourceTree = "<group>"; };
+		DE4DB70C11E2FB2900758F2D /* b3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = b3.png; sourceTree = "<group>"; };
+		DE4DB70D11E2FB2900758F2D /* b4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = b4.png; sourceTree = "<group>"; };
+		DE4DB70E11E2FB2900758F2D /* b5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = b5.png; sourceTree = "<group>"; };
+		DE4DB70F11E2FB2900758F2D /* b6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = b6.png; sourceTree = "<group>"; };
+		DE4DB71011E2FB2900758F2D /* b7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = b7.png; sourceTree = "<group>"; };
+		DE4DB71111E2FB2900758F2D /* b8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = b8.png; sourceTree = "<group>"; };
+		DE4DB71211E2FB2900758F2D /* b9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = b9.png; sourceTree = "<group>"; };
+		DE4DB71311E2FB2900758F2D /* b10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = b10.png; sourceTree = "<group>"; };
+		DE4DB71411E2FB2900758F2D /* b11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = b11.png; sourceTree = "<group>"; };
+		DE4DB74711E3021800758F2D /* UploadView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = UploadView.xib; sourceTree = "<group>"; };
+		DE4DB76111E3050400758F2D /* b12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = b12.png; sourceTree = "<group>"; };
+		DE4DB76911E305B800758F2D /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+				DE4DB76A11E305B800758F2D /* AudioToolbox.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623240D0F684500981E51 /* TulpasAppDelegate.h */,
+				1D3623250D0F684500981E51 /* TulpasAppDelegate.m */,
+				DE4DB64A11E2F2D000758F2D /* UploadTulpaViewController.h */,
+				DE4DB64B11E2F2D000758F2D /* UploadTulpaViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* Tulpas.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+				DE4DB74711E3021800758F2D /* UploadView.xib */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* Tulpas_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				DE4DB70A11E2FB2900758F2D /* b1.png */,
+				DE4DB70B11E2FB2900758F2D /* b2.png */,
+				DE4DB70C11E2FB2900758F2D /* b3.png */,
+				DE4DB70D11E2FB2900758F2D /* b4.png */,
+				DE4DB70E11E2FB2900758F2D /* b5.png */,
+				DE4DB70F11E2FB2900758F2D /* b6.png */,
+				DE4DB71011E2FB2900758F2D /* b7.png */,
+				DE4DB71111E2FB2900758F2D /* b8.png */,
+				DE4DB71211E2FB2900758F2D /* b9.png */,
+				DE4DB71311E2FB2900758F2D /* b10.png */,
+				DE4DB71411E2FB2900758F2D /* b11.png */,
+				DE4DB76111E3050400758F2D /* b12.png */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* Tulpas-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+				DE4DB76911E305B800758F2D /* AudioToolbox.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* Tulpas */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Tulpas" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Tulpas;
+			productName = Tulpas;
+			productReference = 1D6058910D05DD3D006BFB54 /* Tulpas.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Tulpas" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* Tulpas */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				DE4DB71511E2FB2900758F2D /* b1.png in Resources */,
+				DE4DB71611E2FB2900758F2D /* b2.png in Resources */,
+				DE4DB71711E2FB2900758F2D /* b3.png in Resources */,
+				DE4DB71811E2FB2900758F2D /* b4.png in Resources */,
+				DE4DB71911E2FB2900758F2D /* b5.png in Resources */,
+				DE4DB71A11E2FB2900758F2D /* b6.png in Resources */,
+				DE4DB71B11E2FB2900758F2D /* b7.png in Resources */,
+				DE4DB71C11E2FB2900758F2D /* b8.png in Resources */,
+				DE4DB71D11E2FB2900758F2D /* b9.png in Resources */,
+				DE4DB71E11E2FB2900758F2D /* b10.png in Resources */,
+				DE4DB71F11E2FB2900758F2D /* b11.png in Resources */,
+				DE4DB74811E3021800758F2D /* UploadView.xib in Resources */,
+				DE4DB76211E3050400758F2D /* b12.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* TulpasAppDelegate.m in Sources */,
+				DE4DB64C11E2F2D000758F2D /* UploadTulpaViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Tulpas_Prefix.pch;
+				INFOPLIST_FILE = "Tulpas-Info.plist";
+				PRODUCT_NAME = Tulpas;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Tulpas_Prefix.pch;
+				INFOPLIST_FILE = "Tulpas-Info.plist";
+				PRODUCT_NAME = Tulpas;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos4.0;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos4.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Tulpas" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Tulpas" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
